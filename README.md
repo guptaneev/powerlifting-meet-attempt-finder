@@ -31,8 +31,3 @@ The model requires training logs in a structured CSV format, including:
 | 1    | Squat    | 100          | 5    | 7   | 1   | 0       | 0       | 0       | 0       | ... | 0         |  
 | 1    | Bench    | 80           | 5    | 7   | 1   | 0       | 0       | 0       | 0       | ... | 0         |  
 
-## Future Enhancements  
-
-- Improve accuracy with additional data sources.  
-- Implement a web-based interface for easier data entry.  
-- Experiment with deep learning models for enhanced predictions.  
